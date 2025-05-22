@@ -9,3 +9,5 @@ Comparar el comportamiento del ingreso promedio antes y durante la pandemia.
 Visualizar las variaciones relativas por sector (p. ej., turismo, salud, industria) y por región.
 
 Explorar gráficamente las tendencias temporales y geográficas para identificar cuáles actividades y territorios sufrieron mayores caídas o mostraron mayor resiliencia. 
+
+Explorarlo en este link: 
